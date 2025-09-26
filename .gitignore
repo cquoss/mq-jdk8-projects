@@ -1,0 +1,5 @@
+# Apache Maven
+/mq-jdk8-client/target/
+
+# Apache NetBeans
+/nb-configuration.xml
