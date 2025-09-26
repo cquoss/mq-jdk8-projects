@@ -1,4 +1,4 @@
-package de.quoss.mq.client;
+package de.quoss.mq.jdk8.client;
 
 import com.ibm.mq.jms.MQQueueConnectionFactory;
 import com.ibm.msg.client.wmq.WMQConstants;
